@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-segment/static/css/main.e6c13ad2.css",
+    "main.js": "/react-segment/static/js/main.6c2476f2.js",
+    "react-syntax-highlighter/refractor-import.js": "/react-segment/static/js/react-syntax-highlighter/refractor-import.be5804a4.chunk.js",
+    "static/js/787.aff05db8.chunk.js": "/react-segment/static/js/787.aff05db8.chunk.js",
+    "static/media/Debugger.png": "/react-segment/static/media/Debugger.f1d6a0d141c8dcdab2dd.png",
+    "static/media/SourceSettings.png": "/react-segment/static/media/SourceSettings.6593ddd90abae11abaa6.png",
+    "index.html": "/react-segment/index.html",
+    "main.e6c13ad2.css.map": "/react-segment/static/css/main.e6c13ad2.css.map",
+    "main.6c2476f2.js.map": "/react-segment/static/js/main.6c2476f2.js.map",
+    "refractor-import.be5804a4.chunk.js.map": "/react-segment/static/js/react-syntax-highlighter/refractor-import.be5804a4.chunk.js.map",
+    "787.aff05db8.chunk.js.map": "/react-segment/static/js/787.aff05db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6c2476f2.js"
+  ]
+}
